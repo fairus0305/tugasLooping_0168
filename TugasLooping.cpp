@@ -46,4 +46,6 @@ void input()
     cout << "Masukkan bilangan: ";
     cin >> n;
 }
-    
+
+//output prima
+void outputPrima()
