@@ -23,7 +23,7 @@ bool Prima(int x)
     return true;
 }
 
-//
+// Function untuk cek bilangan Fibonacci
 bool Fibonacci(int x){
     int a = 0, b = 1, c;
 
@@ -38,5 +38,12 @@ bool Fibonacci(int x){
         b = c;
     }
     return false;
+}
+
+// Prosedur input
+void input()
+{
+    cout << "Masukkan bilangan: ";
+    cin >> n;
 }
     
