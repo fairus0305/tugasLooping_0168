@@ -48,4 +48,9 @@ void input()
 }
 
 //output prima
-void outputPrima()
+void outputPrima(){
+    if (Prima(n))
+    {
+        cout << n << " adalah bilangan prima" << endl;
+    }
+}
