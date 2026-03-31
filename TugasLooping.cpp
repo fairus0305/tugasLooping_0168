@@ -55,3 +55,8 @@ void outputPrima(){
         cout << n << " bukan bilangan prima" << endl;
     }
 }
+
+// output Fibonacci
+void outputFibonacci(){
+    
+}
